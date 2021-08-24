@@ -15,33 +15,6 @@
 ## 푼 문제들
 [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) |
 
-## 👨‍💻 스터디원 👩‍💻
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ckdals6932">
-        <img src="https://avatars.githubusercontent.com/u/79955006?v=4" width="100px;" alt=""/>
-        <br />
-        강창민
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Seohyunmin42">
-        <img src="https://avatars.githubusercontent.com/u/79955395?v=4" width="100px;" alt=""/>
-        <br />
-        서현민
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Taek-min">
-        <img src="https://avatars.githubusercontent.com/u/79956027?v=4" width="100px;" alt=""/>
-        <br />
-        정택민
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## 📋 스터디 방법 📋
 ### 📌 매일
 1. 정해진 문제를 푼다
