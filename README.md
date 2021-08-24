@@ -18,13 +18,13 @@
 <table>
   <tr>
     <td align="center">
-        강창민
+        <strong>강창민</strong>
     </td>
     <td align="center">
-        서현민
+        <strong>서현민</strong>
     </td>
     <td align="center">
-        정택민
+        <strong>정택민</strong>
     </td>
   </tr>
   <tr>
