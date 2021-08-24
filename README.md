@@ -18,29 +18,29 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ckdals6932">
         강창민
-      </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Seohyunmin42">
         서현민
-      </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Taek-min">
         정택민
-      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      ckdals6932
+      <a href="https://github.com/ckdals6932">
+        ckdals6932
+      </a>
     <td align="center">
-      Seohyunmin42
+      <a href="https://github.com/Seohyunmin42">
+        Seohyunmin42
+      </a>
     </td>
     <td align="center">
-      Taek-min
+      <a href="https://github.com/Taek-min">
+        Taek-min
+      </a>
     </td>
   </tr>
   <tr>
