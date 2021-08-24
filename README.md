@@ -12,7 +12,7 @@
 
 # 매일 백준 한 문제
 
-## 🖍 푼 문제들 🖍
+## ✏ 푼 문제들 ✏
 [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) |
 
 ## 📋 스터디 방법 📋
