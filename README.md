@@ -35,6 +35,16 @@
   </tr>
   <tr>
     <td align="center">
+      ckdals6932
+    <td align="center">
+      Seohyunmin42
+    </td>
+    <td align="center">
+      Taek-min
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://solved.ac/">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sone919">
       </a>
