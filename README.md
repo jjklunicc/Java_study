@@ -29,4 +29,4 @@
   * 2일 연속으로 문제 풀이가 밀렸을 때
   * 밀리는 경우가 너무 잦을 때
 
-thanks to [BOJ_Algorithm_Study](https://github.com/Eighteeen/BOJ_Algorithm_Study)
+<sub>thanks to [BOJ_Algorithm_Study](https://github.com/Eighteeen/BOJ_Algorithm_Study)</sub>
