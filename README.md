@@ -11,9 +11,51 @@
 [Silver1]: https://user-images.githubusercontent.com/33937365/126247625-8d82f8ab-6f95-4ef8-a243-be31f548596e.png
 
 # 매일 백준 한 문제
-
 ## ✏ 푼 문제들
 [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) |
+
+## 스터디원
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ckdals6932">
+        <img src="https://avatars.githubusercontent.com/u/79955006?v=4" width="100px;" alt=""/>
+        <br />
+        강창민
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Seohyunmin42">
+        <img src="https://avatars.githubusercontent.com/u/79955395?v=4" width="100px;" alt=""/>
+        <br />
+        서현민
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Taek-min">
+        <img src="https://avatars.githubusercontent.com/u/79956027?v=4" width="100px;" alt=""/>
+        <br />
+        정택민
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://solved.ac/">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sone919">
+      </a>
+    <td align="center">
+      <a href="https://solved.ac/">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sone919">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://solved.ac/jtm1124">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jtm1124">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📋 스터디 방법
 ### 📌 매일
