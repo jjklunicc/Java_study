@@ -13,6 +13,7 @@
 # 매일 백준 한 문제
 ## ✏ 푼 문제들
 [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) |
+[<sub>![Bronze3]</sub> 핸드폰요금](https://www.acmicpc.net/problem/1267) |
 
 ## 👨‍💻 스터디원
 <table>
