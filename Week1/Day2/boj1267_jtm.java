@@ -1,5 +1,7 @@
 package algorithm;
 import java.util.Scanner;
+
+//// 깔끔함~
 public class Main
 {
 	public static void main(String[] args) {
@@ -7,7 +9,7 @@ public class Main
 	    int num = sc.nextInt();
 	    int yFee = 0;
 	    int mFee = 0;
-	    int time;
+			int time; //// 12줄에서 선언해도 됐음. for문 안에서만 사용되기때문에 12줄에서 선언하는 게 더 깔끔함
 	    for(int i = 0; i < num; i++){
 	        time = sc.nextInt();
 	        yFee += ((time / 30) + 1) * 10;
