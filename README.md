@@ -14,6 +14,7 @@
 ## ✏ 푼 문제들
 [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) |
 [<sub>![Bronze3]</sub> 핸드폰요금](https://www.acmicpc.net/problem/1267) |
+[<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) |
 
 ## 👨‍💻 스터디원
 <table>
