@@ -47,11 +47,11 @@
   <tr>
     <td align="center">
       <a href="https://solved.ac/">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sone919">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ckdals6932">
       </a>
     <td align="center">
       <a href="https://solved.ac/">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sone919">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tjgusals42">
       </a>
     </td>
     <td align="center">
