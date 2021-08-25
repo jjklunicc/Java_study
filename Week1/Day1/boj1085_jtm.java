@@ -11,7 +11,7 @@ public class Bj_1085 {
 		int h = sc.nextInt();
 		
 		//// 언더바 사용ㄴㄴ
-		//// minX 식으로 첫단어 빼고 단어 앞마다 대문자로 해서 구분하는게 자바 네이밍 관례임
+		//// minX 식으로 (첫단어만 제외하고) 단어 앞마다 대문자로 해서 구분하는게 자바 네이밍 관례임
 		int min_x = Math.min(x, w-x);	
 		int min_y = Math.min(y, h-y);	
     
