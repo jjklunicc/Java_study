@@ -20,5 +20,6 @@ public class kcm_5086 {
 				System.out.println("neither");
 		}
 	}
-
 }
+
+// 자바에서 한번에 두개를 입력받으려면 저렇게 해야되는지 이제 알았습니다 ^0^ - 현민
