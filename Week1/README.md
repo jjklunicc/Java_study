@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) | 창민 현민 택민 | 창민 현민 택민             |
+| [<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) | [창민](Day3/kcm_5086.java) 현민 택민 | 창민 현민 택민             |
 
 ## [4일차](Day4)
 
