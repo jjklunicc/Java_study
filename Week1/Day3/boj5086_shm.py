@@ -1,7 +1,7 @@
 while True:
     N1, N2 = map(int, input().split())
 
-    if (N1 == 0 and N2 == 0) or (N1 == N2):
+    if N1 == N2:
         break
 
     if N2 % N1 == 0:
