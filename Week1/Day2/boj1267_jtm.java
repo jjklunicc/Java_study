@@ -1,7 +1,8 @@
 package algorithm;
 import java.util.Scanner;
 
-//// 깔끔함~
+//// 그.. 줄바꿈을 아예 쓰지말라는건 아니였어. 맥락이 바뀔때마다 적절히 줄바꿈 해주면 가독성에 도움이 됨
+//// '불필요하게' 줄바꿈 하지 말란 말이였음!
 public class Main
 {
 	public static void main(String[] args) {
