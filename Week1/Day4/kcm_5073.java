@@ -13,10 +13,10 @@ public class kcm_5073 {
 			}
 			for(int i =0; i < num.length; i++) {
 				for(int j = i+1; j < num.length; j++)
-					if(num[j] >= num[i]) {
+					if(num[j] >= num[i]) {				//배워갑니다~
 						int max = num[j];
 						num[j] = num[i];
-						num[i] = max;
+						num[i] = max;			
 					}
 			}
 			if(num[0] == num[1] && num[2] ==num [1] && num[0] == 0)
