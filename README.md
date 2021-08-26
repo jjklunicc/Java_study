@@ -29,6 +29,9 @@
     <td align="center">
         <strong>정택민</strong>
     </td>
+    <td align="center">
+        <strong>이예은</strong>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -45,6 +48,11 @@
         Taek-min
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/jjklunicc">
+        jjklunicc
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -59,6 +67,11 @@
     <td align="center">
       <a href="https://solved.ac/jtm1124">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jtm1124">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://solved.ac/jtm1124">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jjklunicc">
       </a>
     </td>
   </tr>
