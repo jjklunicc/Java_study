@@ -16,13 +16,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [택민](Day1/boj1085_jtm.java) | 택민             |
+| [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [택민](Day1/boj1085_jtm.java) | [택민](Day1/boj1085_fb_jtm.java)             |
 
 ## [2일차](Day2)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 핸드폰요금](https://www.acmicpc.net/problem/1267) | [택민](Day2/boj1267_jtm.java) | 택민             |
+| [<sub>![Bronze3]</sub> 핸드폰요금](https://www.acmicpc.net/problem/1267) | [택민](Day2/boj1267_jtm.java) | [택민](Day2/boj1267_fb_jtm.java)             |
 
 ## [3일차](Day3)
 
@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
 
 ## [6일차](Day6)
 

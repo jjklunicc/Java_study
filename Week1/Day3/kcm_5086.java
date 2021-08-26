@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class kcm_5086 {
 
 	public static void main(String[] args) {
-		//// 필요없는 주석은 제거
+		//// 필요없는 주석은 제거 : 222222
 		Scanner in = new Scanner(System.in);
 		//// 12줄에 탭 왜 했어
 		while(true) {
