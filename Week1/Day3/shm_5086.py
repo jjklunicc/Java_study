@@ -10,3 +10,5 @@ while True:
         print("multiple")
     else:
         print("neither")
+
+//// 깔끔

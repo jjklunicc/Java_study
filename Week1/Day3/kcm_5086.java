@@ -5,12 +5,14 @@ import java.util.Scanner;
 public class kcm_5086 {
 
 	public static void main(String[] args) {
+		//// í•„ìš”ì—†ëŠ” ì£¼ì„ì€ ì œê±°
 		// TODO Auto-generated method stub
 		Scanner in = new Scanner(System.in);
+		//// 12ì¤„ì— íƒ­ ì™œ í–ˆì–´
 			while(true) {
 			int num1 = in.nextInt();
 			int num2 = in.nextInt();
-			if(num1 == num2) 
+			if (num1 == num2)
 				break;
 			else if(num2 % num1 == 0)
 				System.out.println("factor");
@@ -22,4 +24,5 @@ public class kcm_5086 {
 	}
 }
 
-// ÀÚ¹Ù¿¡¼­ ÇÑ¹ø¿¡ µÎ°³¸¦ ÀÔ·Â¹ŞÀ¸·Á¸é Àú·¸°Ô ÇØ¾ßµÇ´ÂÁö ÀÌÁ¦ ¾Ë¾Ò½À´Ï´Ù ^0^ - Çö¹Î
+//// ì¸ì½”ë”© ë¬¸ì œì¸ê±°ê°™ì€ë° í•œê¸€ ê¹¨ì ¸ì„œ ì•ˆ ë³´ì—¬
+// ï¿½Ú¹Ù¿ï¿½ï¿½ï¿½ ï¿½Ñ¹ï¿½ï¿½ï¿½ ï¿½Î°ï¿½ï¿½ï¿½ ï¿½Ô·Â¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø¾ßµÇ´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ë¾Ò½ï¿½ï¿½Ï´ï¿½ ^0^ - ï¿½ï¿½ï¿½ï¿½
